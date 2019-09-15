@@ -8,7 +8,7 @@ Dockerfile for [Apache HBase](https://hbase.apache.org). The image is also avail
 
 # Versions
 
-This project follows the following versioning scheme: `{hbase-version}-{image-version}`. For example, `2.1.5-1` means the 2nd release of hbase `2.1.5`.
+This project follows the following versioning scheme: `{hbase-version}-{image-version}`. For example, `2.1.5-2` means the 2nd release of hbase `2.1.5`.
 
 # License
 

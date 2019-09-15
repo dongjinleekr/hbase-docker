@@ -1,6 +1,6 @@
 FROM openjdk:8
 
-ARG hbase_version=2.1.5
+ARG hbase_version=2.1.6
 
 LABEL maintainer="Lee Dongjin <dongjin@apache.org>"
 
